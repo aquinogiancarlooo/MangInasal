@@ -1,0 +1,66 @@
+C:\Gian\MangInasal\MangInasal\bin\Debug\MangInasal.exe
+C:\Gian\MangInasal\MangInasal\bin\Debug\MangInasal.pdb
+C:\Gian\MangInasal\MangInasal\obj\Debug\ResolveAssemblyReference.cache
+C:\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.Form1.resources
+C:\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.Properties.Resources.resources
+C:\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.csproj.GenerateResource.Cache
+C:\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.exe
+C:\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.pdb
+C:\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.Form2.resources
+C:\Group 1 Mang Inasal\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.exe
+C:\Group 1 Mang Inasal\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.pdb
+C:\Group 1 Mang Inasal\Gian\MangInasal\MangInasal\bin\Debug\MangInasal.exe
+C:\Group 1 Mang Inasal\Gian\MangInasal\MangInasal\bin\Debug\MangInasal.pdb
+C:\Group 1 Mang Inasal\Gian\MangInasal\MangInasal\obj\Debug\ResolveAssemblyReference.cache
+C:\Group 1 Mang Inasal\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.Form1.resources
+C:\Group 1 Mang Inasal\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.Form2.resources
+C:\Group 1 Mang Inasal\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.Properties.Resources.resources
+C:\Group 1 Mang Inasal\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.csproj.GenerateResource.Cache
+C:\Group 1 Mang Inasal\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.Form3.resources
+C:\Group 1 Mang Inasal\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.Form4.resources
+C:\Group 1 Mang Inasal\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.gmm1.resources
+D:\erich\Group 1 Mang Inasal\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.exe
+D:\erich\Group 1 Mang Inasal\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.pdb
+C:\e\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.exe
+C:\e\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.pdb
+C:\erichtot\e\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.pdb
+C:\erichtot\e\Gian\MangInasal\MangInasal\bin\Debug\MangInasal.exe
+C:\erichtot\e\Gian\MangInasal\MangInasal\bin\Debug\MangInasal.pdb
+C:\erichtot\e\Gian\MangInasal\MangInasal\obj\Debug\ResolveAssemblyReference.cache
+C:\erichtot\e\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.Form1.resources
+C:\erichtot\e\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.Form2.resources
+C:\erichtot\e\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.Form3.resources
+C:\erichtot\e\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.Form4.resources
+C:\erichtot\e\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.Properties.Resources.resources
+C:\erichtot\e\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.csproj.GenerateResource.Cache
+C:\erichtot\e\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.exe
+C:\erichtot\e\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.Form5.resources
+C:\erichtot\e\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.Form6.resources
+C:\e\e-20240508T001415Z-001\e\Gian\MangInasal\MangInasal\obj\Debug\ResolveAssemblyReference.cache
+C:\e\e-20240508T001415Z-001\e\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.Form1.resources
+C:\e\e-20240508T001415Z-001\e\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.Form2.resources
+C:\e\e-20240508T001415Z-001\e\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.Form3.resources
+C:\e\e-20240508T001415Z-001\e\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.Form4.resources
+C:\e\e-20240508T001415Z-001\e\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.Form5.resources
+C:\e\e-20240508T001415Z-001\e\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.Form6.resources
+C:\e\e-20240508T001415Z-001\e\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.Properties.Resources.resources
+C:\e\e-20240508T001415Z-001\e\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.csproj.GenerateResource.Cache
+C:\e\e-20240508T001415Z-001\e\Gian\MangInasal\MangInasal\bin\Debug\MangInasal.exe
+C:\e\e-20240508T001415Z-001\e\Gian\MangInasal\MangInasal\bin\Debug\MangInasal.pdb
+C:\e\e-20240508T001415Z-001\e\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.exe
+C:\e\e-20240508T001415Z-001\e\Gian\MangInasal\MangInasal\obj\Debug\MangInasal.pdb
+C:\client\MangInasal\MangInasal\obj\Debug\ResolveAssemblyReference.cache
+C:\client\MangInasal\MangInasal\obj\Debug\MangInasal.Form1.resources
+C:\client\MangInasal\MangInasal\obj\Debug\MangInasal.Form2.resources
+C:\client\MangInasal\MangInasal\obj\Debug\MangInasal.Form3.resources
+C:\client\MangInasal\MangInasal\obj\Debug\MangInasal.Form4.resources
+C:\client\MangInasal\MangInasal\obj\Debug\MangInasal.Form5.resources
+C:\client\MangInasal\MangInasal\obj\Debug\MangInasal.Form6.resources
+C:\client\MangInasal\MangInasal\obj\Debug\MangInasal.Properties.Resources.resources
+C:\client\MangInasal\MangInasal\obj\Debug\MangInasal.csproj.GenerateResource.Cache
+C:\client\MangInasal\MangInasal\bin\Debug\MangInasal.exe
+C:\client\MangInasal\MangInasal\bin\Debug\MangInasal.pdb
+C:\client\MangInasal\MangInasal\obj\Debug\MangInasal.exe
+C:\client\MangInasal\MangInasal\obj\Debug\MangInasal.pdb
+E:\Gian Carlo P. Aquino\kiosk\kiosk\client\MangInasal\MangInasal\obj\Debug\MangInasal.exe
+E:\Gian Carlo P. Aquino\kiosk\kiosk\client\MangInasal\MangInasal\obj\Debug\MangInasal.pdb
